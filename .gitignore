@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Editor folders
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Optional: archivos de cobertura de tests
+coverage/
+
+# Optional: archivos temporales
+*.tmp
+*.temp
+
+# Nodemon
+nodemon-debug.log
